@@ -1,0 +1,57 @@
+,season,week_num,day_of_week,gametime_local,home_team,away_team,home_score,away_score,OT_flag,arrests,division_game
+3,2011,9,Sunday,2:15:00 PM,Arizona,St. Louis,19,13,OT,6.0,y
+4,2011,13,Sunday,2:15:00 PM,Arizona,Dallas,19,13,OT,3.0,n
+6,2011,15,Sunday,2:15:00 PM,Arizona,Cleveland,20,17,OT,1.0,n
+7,2011,17,Sunday,2:15:00 PM,Arizona,Seattle,23,20,OT,4.0,y
+10,2012,4,Sunday,1:05:00 PM,Arizona,Miami,24,21,OT,4.0,n
+11,2012,6,Sunday,1:05:00 PM,Arizona,Buffalo,19,16,OT,1.0,n
+50,2013,10,Sunday,1:00:00 PM,Baltimore,Cincinnati,20,17,OT,0.0,y
+64,2015,5,Sunday,1:02:00 PM,Baltimore,Cleveland,30,33,OT,3.0,y
+84,2012,11,Sunday,1:00:00 PM,Carolina,Tampa Bay,21,27,OT,0.0,y
+106,2015,8,Monday,8:30:00 PM,Carolina,Indianapolis,29,26,OT,6.0,n
+125,2012,13,Sunday,12:00:00 PM,Chicago,Seattle,17,23,OT,0.0,n
+132,2013,11,Sunday,12:00:00 PM,Chicago,Baltimore,23,10,OT,2.0,n
+135,2014,1,Sunday,12:00:00 PM,Chicago,Buffalo,20,23,OT,1.0,n
+169,2014,6,Sunday,1:00:00 PM,Cincinnati,Carolina,37,37,OT,1.0,n
+194,2012,11,Sunday,12:00:00 PM,Dallas,Cleveland,23,20,OT,0.0,n
+197,2012,15,Sunday,3:25:00 PM,Dallas,Pittsburgh,27,24,OT,13.0,n
+198,2012,16,Sunday,12:00:00 PM,Dallas,New Orleans,31,34,OT,0.0,n
+209,2014,5,Sunday,12:00:00 PM,Dallas,Houston,20,17,OT,7.0,n
+211,2014,8,Monday,7:30:00 PM,Dallas,Washington,17,20,OT,3.0,y
+219,2015,9,Sunday,7:30:00 PM,Dallas,Philadelphia,27,33,OT,8.0,y
+228,2011,14,Sunday,2:05:00 PM,Denver,Chicago,13,10,OT,0.0,n
+259,2015,12,Sunday,6:30:00 PM,Denver,New England,30,24,OT,3.0,n
+261,2015,16,Monday,6:30:00 PM,Denver,Cincinnati,20,17,OT,1.0,n
+324,2013,12,Sunday,12:00:00 PM,Green Bay,Minnesota,26,26,OT,8.0,y
+356,2012,11,Sunday,12:00:00 PM,Houston,Jacksonville,43,37,OT,1.0,y
+359,2013,2,Sunday,12:00:00 PM,Houston,Tennessee,30,24,OT,2.0,y
+360,2013,4,Sunday,12:00:00 PM,Houston,Seattle,20,23,OT,0.0,n
+416,2015,4,Sunday,1:00:00 PM,Indianapolis,Jacksonville,16,13,OT,0.0,y
+462,2011,8,Monday,7:30:00 PM,Kansas City,San Diego,23,20,OT,2.0,y
+467,2011,16,Saturday,12:00:00 PM,Kansas City,Oakland,13,16,OT,2.0,y
+510,2013,9,Thursday,8:25:00 PM,Miami,Cincinnati,22,20,OT,0.0,n
+540,2012,7,Sunday,4:25:00 PM,New England,New York Jets,29,26,OT,4.0,y
+551,2013,12,Sunday,8:30:00 PM,New England,Denver,34,31,OT,4.0,n
+607,2015,13,Sunday,1:00:00 PM,New York Giants,New York Jets,20,23,OT,39.0,n
+629,2013,7,Sunday,1:00:00 PM,New York Jets,New England,30,27,OT,29.0,y
+649,2015,16,Sunday,1:00:00 PM,New York Jets,New England,26,20,OT,32.0,y
+660,2012,7,Sunday,1:25:00 PM,Oakland,Jacksonville,26,23,OT,16.0,n
+697,2012,6,Sunday,1:00:00 PM,Philadelphia,Detroit,23,26,OT,1.0,n
+738,2012,10,Monday,8:30:00 PM,Pittsburgh,Kansas City,16,13,OT,25.0,n
+760,2015,4,Thursday,8:30:00 PM,Pittsburgh,Baltimore,20,23,OT,1.0,y
+772,2011,12,Sunday,1:15:00 PM,San Diego,Denver,13,16,OT,41.0,y
+779,2012,12,Sunday,1:05:00 PM,San Diego,Baltimore,13,16,OT,31.0,n
+790,2013,17,Sunday,1:25:00 PM,San Diego,Kansas City,27,24,OT,8.0,y
+808,2011,2,Sunday,1:05:00 PM,San Francisco,Dallas,24,27,OT,4.0,n
+819,2012,10,Sunday,1:25:00 PM,San Francisco,St. Louis,24,24,OT,8.0,y
+837,2014,16,Saturday,5:25:00 PM,San Francisco,San Diego,35,38,OT,25.0,n
+846,2015,17,Sunday,1:25:00 PM,San Francisco,St. Louis,19,16,OT,18.0,y
+866,2013,9,Sunday,1:05:00 PM,Seattle,Tampa Bay,27,24,OT,2.0,n
+872,2014,3,Sunday,1:25:00 PM,Seattle,Denver,26,20,OT,1.0,n
+913,2014,8,Sunday,1:00:00 PM,Tampa Bay,Minnesota,13,19,OT,0.0,n
+935,2012,3,Sunday,12:00:00 PM,Tennessee,Detroit,44,41,OT,1.0,n
+937,2012,8,Sunday,12:00:00 PM,Tennessee,Indianapolis,13,19,OT,0.0,y
+948,2013,15,Sunday,3:25:00 PM,Tennessee,Arizona,37,37,OT,7.0,n
+970,2011,11,Sunday,1:00:00 PM,Washington,Dallas,24,27,OT,7.0,y
+980,2012,14,Sunday,1:00:00 PM,Washington,Baltimore,31,28,OT,4.0,n
+985,2013,9,Sunday,1:00:00 PM,Washington,San Diego,30,24,OT,3.0,n
